@@ -13,7 +13,7 @@ const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 const String versaoAtual = "1.0";
 // URL Raw do seu repositório no GitHub
-const char* urlManifesto = "https://raw.githubusercontent.com/moreiraRoberto/CP02--Projeto-Motiva-Atualiza-o-Remota-de-Firmware-OTA-/main/version.json";
+const char* urlManifesto = "https://raw.githubusercontent.com/manoela-oliveira/cp2-firmware-edge-computing/main/version.json";
 
 // Setup da temporização e lógica
 unsigned long tempoUltimaSessao = 0;
